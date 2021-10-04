@@ -12,5 +12,5 @@ Student Info
 
 * Name: Đào Trọng Lê Thái
 * ID: BA9-055
-* Group ID: 2
+* Group ID: 12
 
