@@ -24,6 +24,7 @@ public class WeatherAndForecastFragment extends AppCompatActivity {
         fragmentPaperAdapter = new FragmentPaperAdapter(getSupportFragmentManager(), FragmentPagerAdapter.BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT);
 
         mTabLayout.setupWithViewPager(mViewPager);
-
     }
+
+
 }
