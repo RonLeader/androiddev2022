@@ -6,10 +6,10 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-public class HomFragmentPaperAdapter extends FragmentPagerAdapter {
+public class FragmentPaperAdapter extends FragmentPagerAdapter {
 
 
-    public HomFragmentPaperAdapter(@NonNull FragmentManager fm, int behavior) {
+    public FragmentPaperAdapter(@NonNull FragmentManager fm, int behavior) {
         super(fm, behavior);
     }
 
